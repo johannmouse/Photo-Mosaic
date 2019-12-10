@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\PhotoMosaic\PhotoMosaic\bin\Debug\Photo Mosaic.exe.config
+C:\Users\pc\source\repos\PhotoMosaic\PhotoMosaic\bin\Debug\Photo Mosaic.exe
+C:\Users\pc\source\repos\PhotoMosaic\PhotoMosaic\bin\Debug\Photo Mosaic.pdb
+C:\Users\pc\source\repos\PhotoMosaic\PhotoMosaic\obj\Debug\PhotoMosaic.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\PhotoMosaic\PhotoMosaic\obj\Debug\PhotoMosaic.Form1.resources
+C:\Users\pc\source\repos\PhotoMosaic\PhotoMosaic\obj\Debug\PhotoMosaic.Properties.Resources.resources
+C:\Users\pc\source\repos\PhotoMosaic\PhotoMosaic\obj\Debug\PhotoMosaic.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\PhotoMosaic\PhotoMosaic\obj\Debug\PhotoMosaic.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\PhotoMosaic\PhotoMosaic\obj\Debug\Photo Mosaic.exe
+C:\Users\pc\source\repos\PhotoMosaic\PhotoMosaic\obj\Debug\Photo Mosaic.pdb
